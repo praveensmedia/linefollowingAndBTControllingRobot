@@ -1,3 +1,4 @@
+// code written for Arduino-UNO.
 #define LMF  8
 #define LMB  9
 #define RMF 10
